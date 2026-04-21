@@ -1,30 +1,68 @@
-<br>
-<br>
-<h1 align="center">Hi there 👋 Myself Paramjot Malhotra (aka param)</h1>
+<br />
+<br />
+<br />
+<br />
+<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=2000&pause=1000&color=228637&center=true&vCenter=true&random=false&weight=800&width=500&lines=param;DevOps+Engineer" alt="Typing SVG" />
+</p>
 
-<p aligh="left">I am just a guy who has all kinds of interests in Technology. So my interests include anything and everything ranging from competitive programming with C#😎 to gaming like a complete n00b🥴. I am currently a recent graduate from <a href='https://lpu.in'>Lovely Professional University</a> and looking out for new gigs. I used to be a part-time freelancer (~extra pocket money😋), where I developed websites and suggested UI/UX improvements for some individuals or small startups (Yea, kinda lowkey).</p>
+<br />
+<br />
+<br />
+<br />
+<hr />
+<p align="center">
+<br />
+  <em>Professional human firewall between bad deployments and production outages.</em>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/akaparam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/akaparam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-[![X](https://img.shields.io/static/v1?style=for-the-badge&logo=x&label=X.COM&message=akaparam&color=blue)](https://x.com/akaparam)
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=circle&label=Website&message=akaparam.github.io&color=black)](https://akaparam.github.io/)
+---
 
+### `~# param --about`
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='250' />
+```yaml
+about:
+  role: "DevOps Engineer",
+  location: "Noida, India",
+  stack:
+    frontend: "react + ts"
+    backend: "go / python / lua"
+    cloud: "aws"
+    database: "postgres"
+    ui: "shadcn/ui + tailwind"
+    iac: "terraform"
+    ide: "nvim"
+    os: "mint"
+  superpower: "Overthink existing code bases with passion"
+```
 
-- 🔭 I’m currently working on _building an AIO task manager app with cross-sync between Windows and Android devices + integration with other open-source tools._
-- 🌱 I’m currently learning _.NET MAUI, ASP.NET Core, and automating things with powershell._
-- 👯 I’m looking to collaborate on _anything that's related to creating and developing NEW experiences for both me and others that browse my content._
-- 🤔 I’m looking for help with _life, and it's recurring drama_
-- 📫 How to reach me: _I would've given my Insta, but I am not that aesthetically pleasing... so let's stick with my_ [X](https://x.com/akaparam) _plzz_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: _Excess of coffee can cause anxiety, Bewehehehare_
+---
 
-<br>
+### `~# param --stats`
 
-## Wanna Hire Me?
-Need some help? I am up for work too... Kindly contact me here😃:
-<br>
-<br>
-[![Freelancer](https://img.shields.io/static/v1?style=for-the-badge&logo=freelancer&label=Freelancer&message=iParamjotSingh&color=blue)](https://freelancer.com/u/iParamjotSingh)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=akaparam&color=blue)](https://linkedin.com/in/akaparam)
+<p align="center" style="padding-top: 4px">
+  <img src="https://github-readme-stats.vercel.app/api?username=akaparam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&ring_color=58A6FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaparam&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaparam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+</p>
+
+---
+
+### `~# param --skills`
+
+<p align="center" style="padding-top: 10px">
+  <img src="https://skillicons.dev/icons?i=go,bash,neovim,lua,python,fastapi,java,spring,react,ts,vite,bun,tailwind,latex&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,nix,elasticsearch,prometheus,grafana,nginx,githubactions,kafka&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,gitlab,vscodium,postman,obsidian,figma,redhat,mint,debian&theme=dark" />
+</p>
