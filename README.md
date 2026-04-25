@@ -33,10 +33,9 @@ about:
   stack:
     frontend: "react + ts"
     backend: "go / python / lua"
-    cloud: "aws"
+    favouriteCloud: "aws"
     database: "postgres"
     ui: "shadcn/ui + tailwind"
-    iac: "terraform"
     ide: "nvim"
     os: "mint"
   superpower: "Overthink existing code bases with passion"
